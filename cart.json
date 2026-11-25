@@ -1,0 +1,18 @@
+[
+  {
+    "cart_item_id": "c_01",
+    "username": "szaboeszter",
+    "product_id": "PSPH",
+    "product_name": "Pearl - Single Pedal",
+    "product_cost": 35000,
+    "items_in_stock": 1
+  },
+  {
+    "cart_item_id": "c_02",
+    "username": "szaboeszter",
+    "product_id": "YBDD",
+    "product_name": "Yamaha - Bass Drums",
+    "product_cost": 150000,
+    "items_in_stock": 2
+  }
+]

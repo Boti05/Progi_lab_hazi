@@ -1,0 +1,67 @@
+[
+  {
+    "username": "kovacspeter_a",
+    "name": "Kovacs Peter",
+    "email": "kovacs.peter@bobdob.hu",
+    "phone": "+36301112233",
+    "pass_hash": "lK3ad@4s2gH",
+    "role": "admin",
+    "2nd_factor_hash": "klAk%5&3ls",
+    "rfid_uid": "A1B2C3D4"
+  },
+  {
+    "username": "nagyanna_e",
+    "name": "Nagy Anna",
+    "email": "nagy.anna@bobdob.hu",
+    "phone": "+36309998877",
+    "pass_hash": "Jkl5l@Asnz",
+    "role": "employee",
+    "rfid_uid": "E5F6G7H8"
+  },
+  {
+    "username": "vargabalazs_a",
+    "name": "Varga Balazs",
+    "email": "varga.balazs@bobdob.hu",
+    "phone": "+36204567812",
+    "pass_hash": "E.WE0'ShkM",
+    "role": "admin",
+    "2nd_factor_hash": ")74NkM}B7#Z.",
+    "rfid_uid": "T6C0K7D0"
+  },
+  {
+    "username": "horvatheszter_e",
+    "name": "Horvath Eszter",
+    "email": "horvath.eszter@bobdob.hu",
+    "phone": "+36703216549",
+    "pass_hash": "y53%HZmaD`",
+    "role": "employee",
+    "rfid_uid": "B4K8Z7G9"
+  },
+  {
+    "username": "molnartamas_e",
+    "name": "Molnar Tamas",
+    "email": "molnar.tamas@bobdob.hu",
+    "phone": "+36308765432",
+    "pass_hash": "glK$UveZ{huypbf",
+    "role": "employee",
+    "rfid_uid": "V6L8B2X1"
+  },
+  {
+    "username": "farkaszsofia_e",
+    "name": "Farkas Zsofia",
+    "email": "farkas.zsofia@bobdob.hu",
+    "phone": "+36209182736",
+    "pass_hash": "xD8MNjU,^TmN%",
+    "role": "employee",
+    "rfid_uid": "G9C5A5H6"
+  },
+  {
+    "username": "baloghgabor_e",
+    "name": "Balogh Gabor",
+    "email": "balogh.gabor@bobdob.hu",
+    "phone": "+36705544332",
+    "pass_hash": "d*uGct@ia96h[S",
+    "role": "employee",
+    "rfid_uid": "Y7B0E7G0"
+  }
+]

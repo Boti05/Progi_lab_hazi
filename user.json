@@ -1,0 +1,18 @@
+[
+  {
+    "username": "szaboeszter",
+    "name": "Szabo Eszter",
+    "email": "szabo.eszter@gmail.com",
+    "phone": "+36304445566",
+    "pass_hash": "s5klU3e9#fT",
+    "role": "customer"
+  },
+  {
+    "username": "tothgabor",
+    "name": "Toth Gabor",
+    "email": "toth.gabor@freemail.hu",
+    "phone": "+36207778899",
+    "pass_hash": "kl3AkéöR5%/s",
+    "role": "customer"
+  }
+]
