@@ -4,9 +4,9 @@
     "name": "Kovacs Peter",
     "email": "kovacs.peter@bobdob.hu",
     "phone": "+36301112233",
-    "pass_hash": "lK3ad@4s2gH",
+    "pass_hash": "bbbbbbbbbb",
     "role": "admin",
-    "2nd_factor_hash": "klAk%5&3ls",
+    "second_factor_hash": "klAk%5&3ls",
     "rfid_uid": "A1B2C3D4"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Nagy Anna",
     "email": "nagy.anna@bobdob.hu",
     "phone": "+36309998877",
-    "pass_hash": "Jkl5l@Asnz",
+    "pass_hash": "cccccccccc",
     "role": "employee",
     "rfid_uid": "E5F6G7H8"
   },
@@ -25,7 +25,7 @@
     "phone": "+36204567812",
     "pass_hash": "E.WE0'ShkM",
     "role": "admin",
-    "2nd_factor_hash": ")74NkM}B7#Z.",
+    "second_factor_hash": ")74NkM}B7#Z.",
     "rfid_uid": "T6C0K7D0"
   },
   {
